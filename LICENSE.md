@@ -1,4 +1,4 @@
-# 
+# 自动 TreeSize 预设 Mac OS版 | 精英 TreeSize 预设 PC Windows版。集成 文件解压 和 归档创建，跨平台性能最大化。
 
 
 
